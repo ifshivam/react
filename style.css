@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+#DIV1{
+    margin-top: 4px;
+    width: 310px;
+    height: 310px;
+    color: whitesmoke;
+    background-color: rgb(145, 148, 115);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
+#DIV2{
+    margin-top: 6px;
+    width: 310px;
+    height: 310px;
+    color: whitesmoke;
+    background-color: rgb(24, 54, 55);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+
+}
