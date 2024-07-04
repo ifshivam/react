@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ifshivam/react/issues"
   },
-  "homepage": "https://github.com/ifshivam/react#readme"
+  "homepage": "https://github.com/ifshivam/react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"   
+  }
 }
