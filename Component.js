@@ -13,7 +13,8 @@ const Component = () => {
   return (
     <div>
       <h1>Hello World from functional component</h1>
-      <HeadingComponent />
+      {/* component composition */}
+      <HeadingComponent /> 
     </div>
   );
 };
